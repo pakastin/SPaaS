@@ -1,0 +1,30 @@
+{
+  "name": "spaas",
+  "version": "1.0.0",
+  "description": "SPaaS – Side Project as a Service",
+  "scripts": {
+    "dist": "gh-pages -d website",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakastin/SPaaS.git"
+  },
+  "keywords": [
+    "side",
+    "project",
+    "as",
+    "a",
+    "service",
+    "spaas"
+  ],
+  "author": "Juha Lindstedt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pakastin/SPaaS/issues"
+  },
+  "homepage": "https://github.com/pakastin/SPaaS#readme",
+  "devDependencies": {
+    "gh-pages": "~0.12.0"
+  }
+}
